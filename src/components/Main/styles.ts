@@ -15,7 +15,7 @@ export const Container = styled.div`
 `;
 
 export const Header = styled.div`
-z-index: 2;
+    z-index: 2;
     position: sticky;
     top: 0;
     background: var(--primary);

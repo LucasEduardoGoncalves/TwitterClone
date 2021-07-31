@@ -4,6 +4,7 @@ import { Container, Wrapper } from './styles';
 
 import Main from '../Main';
 import MenuBar from '../MenuBar';
+import SideBar from '../SideBar';
 
 export const Layout: React.FC = () => {
   return (
@@ -11,7 +12,7 @@ export const Layout: React.FC = () => {
         <Wrapper>
           <MenuBar/>
           <Main/>
-          {/* <SideBar/> */}
+          <SideBar/>
         </Wrapper>
     </Container>
   );
