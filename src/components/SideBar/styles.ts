@@ -49,7 +49,7 @@ export const AreaInput = styled.div`
 
 export const SearchInput = styled.input`
     font-size: 14px;
-    flex: 1;
+    width: 100%;
 
     outline: 0;
     background: transparent;
@@ -72,4 +72,6 @@ export const Body = styled.div`
 
     padding: 57px 24px 200px;
     margin-top: 3px;
+
+    gap: 15px;
 `;
