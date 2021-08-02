@@ -1,4 +1,4 @@
-## Letmeask 
+## TwitterClone 
 
 É uma aplicação feita no 6° nlw, porém eu atualizei com algumas mudanças que julguei necessario fazendo uma aplicação semelhante a um app de conversas
 
